@@ -2,9 +2,35 @@
 I’m writing this to help answer some of the many questions people have about being prepared for getting their first software engineering job. There is a lot to unpack to making yourself an ideal candidate. There is no perfect answer to being the ideal candidate but these will without doubt help you become a more attractive candidate. There are portions of this that will not apply to everyone, it is important to know, missing any section of this by itself will probably not be what makes or breaks you getting your first job.
 
 ## School / Internships
-Making sure to get internships throughout your college career is a hugely impactful on getting your first job. In many cases internships will often lead to being offered jobs, but even when it does not, having these on your resume will make a world of difference.
+**Internships**
+
+Making sure to get internships throughout your college career is a hugely impactful on getting your first job. In many cases internships will often lead to being offered jobs, but even when it does not, having these on your resume will make a world of difference. Especially for internships, having a solid understanding of data structures will make a big difference in getting those internships. There are a wide range of great resources available to help ensure you have the fundamentals down for any internship interviews but below are a few exceptional standout ones to start with:
+
+* [MIT Open Courseware - Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+* [Stanford - Algorithms: Design and Analysis, Part 1](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1)
+* [Stanford - Algorithms: Design and Analysis, Part 2](https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2)
+
+This whole repository is geared towards people who want to be prepared as far in advance as possible, it may go without saying but its important identify and apply to internships as early as possible and make sure you have backups.
+
+**Bootcamps**
+
+Bootcamps have been a very touchy subject for many. There are people who think very poorly about them and those who sing their praises, without getting into debate about this, it is for many a viable option to change careers. There are far more low quality than high quality bootcamps out there but those which are strong will set you up for success. Truth be told, a strong bootcamp will provide you will all of the information found within this repository.
+
+**Paid bootcamps**
+* [App Academy](https://www.appacademy.io/referral_redirect?hash=04dbc105c59f04bb)
+* [Hack Reactor](https://www.hackreactor.com/)
+  
+**Free bootcamps(self-taught)**
+* [Free Code Camp](https://www.freecodecamp.org/)
+* [App Academy Online Open](https://open.appacademy.io)
+* [Odin Project](https://www.theodinproject.com/)
 
 For those who are taking an alternative route such as a coding bootcamp or self-taught, do not fret, there are tons of candidates who are able to get jobs without a degree from a university or a single internship under their belt.
+
+#### FAQ
+**I did not get an internship for x year, is this going to ruin my chances of getting my desired FAANG job?**
+
+Not getting an internship is in no way a death sentence for getting your dream job. There are people who have had no internships on their resume who will get a dream job offer. Whats important to focus on is what is in your control. That is how you spend your time that you do not have an internship. Take the time to build out your portfolio, spec out and build a small full stack project, a library, a light-weight testing framework. Anything to demonstrate what you are capable of will make a world of difference in being an appealing candidate.
  
 ## Github / Portfolio
 #### [Full-stack projects](/github/fullstack-projects.md)
