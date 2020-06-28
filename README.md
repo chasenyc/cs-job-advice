@@ -49,9 +49,30 @@ the specific ones chosen. There will always be employers who will prefer to see 
 the language they use but that alone should not leave you paralyzed with what choice to make. You are better off picking something you find interesting and might enjoy. 
 
 ## Interview Prep
+* [Leetcode](https://leetcode.com) - Probably the premier pool of interview questions available.
+* [The Daily Byte](https://thedailybyte.dev) - Daily interview questions to your inbox in an order with a curriculum to help foster learning and improving over time. A great option for people stating ahead of time who want to keep consistent.
+* [Project Euler](https://projecteuler.net/) - Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.
+  
 Preparing for the interviews is an extremely important process and is not something that can be left until the last minute. People prepare for many months before applying to jobs, there are whole industries surrounding helping prepare for the interview process. In many cases the technical interview questions asked are questions that address topics you will not be dealing with on a day to day in your job; however, they still serve a purpose to get to see how your logical brain works, how you work through problems and somewhat are aimed to ensure you learned the types of things expected from a standard CS degree.
 
+The most important piece of advice is to start this process early and practicing often. There are endless great resources for interview prep, github repositories, YouTube videos, free and paid services. Keeping your skills sharp and being prepared far in advance will pay great dividends when it comes time to start interviewing.
+
 ## Applying to jobs
+#### How to apply to jobs
+There are a variety of portals to find jobs and this list is not comprehensive but:
+* [Linkedin](https://linkedin.com)
+* [Angel List](https://angel.co) - Mainly smaller startups
+* [The Muse](https://themuse.com)
+  
+One of the most important aspects of applying to jobs is standing out from the crowd. While most people will apply to jobs directly through the portal, it is important to realize that you are one in a large pool of candidates when you apply through their portal. Everything discussed in this repository is about standing out from the crowd and getting yourself in the door; however, your profile/portfolio may not be enough. Looking at a job posting on LinkedIn you might see something like `323 applicants` on the side, those are already not great odds for you.
+
+**Direct Email**
+
+If there is a name of the hiring manager attached the job, one tactic is to try and reach out to the hiring manager directly. State your interest, that you have found the job online and are interested, make sure to tell them some about yourself and make sure to attach your resume. One way to find people's email addresses is to use a site like [Norbet](https://www.voilanorbert.com).
+
+For example if I went to apply to a job on [Angel List](https://angel.co), the placeholder text when applying says `Write a note to John Doe at Oscar.` If I were to go to Norbert and put in the name `John Doe` with the domain `hioscar.com` I will get a result thats a probable match. Having the hiring manager get an email in a way that most other candidates are not reaching them will help you standout from the crowd. This approach will not always work, and can turn off some people who do not want their email to be filled so use this method with discretion.
+
+#### Emotional Aspects of applyting to jobs
 A lot of people tend to get very discouraged by not hearing back from any jobs. There are tons of posts around the internet if they should give up. Applying to jobs can be very discouraging and difficult but you need to keep in mind that it is really a numbers game. If you are a top tier candidate, who is checking off all the boxes of everything listed above and you are not hearing back from places that can be tough but just realize this is really like a marketing funnel. If we start with an offer and say for every offer you need to have 4 on-site interviews and for every onsite interview you need to have done 2 phone screens. And lastly to get each phone screen you need to send out 100 applications, doing some simple math 1 offer = 4 * 2 * 100 that would  be somewhere around 800 applications.
 
 Do not be discouraged by the lack of hearing back! Do make sure you have all everything prepared before applying to maximize your chances. It really will feel like you will never get a job but you will. Learn from any mistakes you make, if you are having terrible luck evaluate what you can do better, where your knowledge gaps are and continue to apply.
