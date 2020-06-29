@@ -76,7 +76,7 @@ One of the most important aspects of applying to jobs is standing out from the c
 
 **Get noticed**
 
-If there is a name of the hiring manager attached the job, one tactic is to try and reach out to the hiring manager directly. State your interest, that you have found the job online and are interested, make sure to tell them some about yourself and make sure to attach your resume. One way to find people's email addresses is to use a site like [Norbet](https://www.voilanorbert.com).
+If there is a name of the hiring manager attached the job, one tactic is to try and reach out to the hiring manager directly. State your interest, that you have found the job online and are interested, make sure to tell them some about yourself and make sure to attach your resume. One way to find people's email addresses is to use a site like [Norbert](https://www.voilanorbert.com).
 
 For example if I went to apply to a job on [Angel List](https://angel.co), the placeholder text when applying says `Write a note to John Doe at Oscar.` If I were to go to Norbert and put in the name `John Doe` with the domain `hioscar.com` I will get a result thats a probable match. Having the hiring manager get an email in a way that most other candidates are not reaching them will help you standout from the crowd. This approach will not always work, and can turn off some people who do not want their email to be filled so use this method with discretion.
 
@@ -93,3 +93,6 @@ The first job is by far the hardest to get, keep that in mind, whatever you go t
 **Build a network**
 
 One of the most important things you can do is to keep a network of friends who work in the field. Getting a job working somewhere you know someone is so much easier than cold applying places. For most people having an ex-coworker recommend you will go a long way to making the interview process a lot easier. Having someone vouch for you gives you a great positive bias the moment you walk in the door, it wont 100% guarantee you a job but it certainly gives you a leg up. That is why so many companies payout high referral bonuses to employees, because it makes their lives a whole lot easier to find someone they know they can trust (and they don't have to pay a recruiter).
+
+## Other Resources
+Below is a list of resources that I have found extremely helpful. While I have not used every product I'm listing resources I know have a proven track record of success. You can see the [full list here](resources/links.md).
