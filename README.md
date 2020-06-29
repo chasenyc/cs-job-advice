@@ -33,11 +33,15 @@ For those who are taking an alternative route such as a coding bootcamp or self-
 Not getting an internship is in no way a death sentence for getting your dream job. There are people who have had no internships on their resume who will get a dream job offer. Whats important to focus on is what is in your control. That is how you spend your time that you do not have an internship. Take the time to build out your portfolio, spec out and build a small full stack project, a library, a light-weight testing framework. Anything to demonstrate what you are capable of will make a world of difference in being an appealing candidate.
  
 ## Github / Portfolio
-#### [Full-stack projects](/github/fullstack-projects.md)
-#### [How to write a good readme](/github/readme-guide.md)
 One of the biggest challenges a lot of college candidates seem to lack and bootcamp graduates tend to have more of, is a github profile with what looks more like real world experience. Having some relevant full stack applications to show a potential employer will leave them much more confident in your abilities and will definitely help you get call backs when applying to jobs. An in-depth primer of picking a good project can be found [here](/github/fullstack-projects.md).
 
 It is important to realize that having a good github profile is not simple about having a few random repositories thrown up. Engineers who will be looking through candidates profiles will have a few things that immediately jump out to them. A well crafted README is very important, you can read more about that [here](/github/readme-guide.md).
+
+
+#### [Full-stack projects](/github/fullstack-projects.md)
+* Above is an indepth primer into picking a good full-stack project that will help fill our your portfolio.
+#### [How to write a good readme](/github/readme-guide.md)
+* Equally important to having a good project to show potential employers is the readme that is at the root of your project. Take some time to take a look at the link and make sure you are putting your best foot forward.
 
 You also want to make sure you are demonstrating your ability to use `git` properly. A lot of times when reviewing a candidates portfolio I will see a fully complete project and every file was committed at completion. You will see `Initial commit.` as the only commit in the repository. This in itself is not something that would stop someone from being hired but it is an immediate signal that they are using git purely to display their work and leaves the question if they have any experience using git properly. Committing your work as you go is a good touch to demonstrate your understanding. Free code camp has a [great article](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/) on making great commit messages.
 
@@ -49,6 +53,9 @@ the specific ones chosen. There will always be employers who will prefer to see 
 the language they use but that alone should not leave you paralyzed with what choice to make. You are better off picking something you find interesting and might enjoy. 
 
 ## Interview Prep
+**[In the room](/interviews/in-the-room.md)** - More detailed look at preparing for the interviews themselves.
+
+**Places to hone your interview skills**
 * [Leetcode](https://leetcode.com) - Probably the premier pool of interview questions available.
 * [The Daily Byte](https://thedailybyte.dev) - Daily interview questions to your inbox in an order with a curriculum to help foster learning and improving over time. A great option for people stating ahead of time who want to keep consistent.
 * [Project Euler](https://projecteuler.net/) - Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.
@@ -58,15 +65,16 @@ Preparing for the interviews is an extremely important process and is not someth
 The most important piece of advice is to start this process early and practicing often. There are endless great resources for interview prep, github repositories, YouTube videos, free and paid services. Keeping your skills sharp and being prepared far in advance will pay great dividends when it comes time to start interviewing.
 
 ## Applying to jobs
-#### How to apply to jobs
 There are a variety of portals to find jobs and this list is not comprehensive but:
 * [Linkedin](https://linkedin.com)
 * [Angel List](https://angel.co) - Mainly smaller startups
 * [The Muse](https://themuse.com)
+* [Monster](https://monster.com)
+* [Indeed](https://indeed.com)
   
 One of the most important aspects of applying to jobs is standing out from the crowd. While most people will apply to jobs directly through the portal, it is important to realize that you are one in a large pool of candidates when you apply through their portal. Everything discussed in this repository is about standing out from the crowd and getting yourself in the door; however, your profile/portfolio may not be enough. Looking at a job posting on LinkedIn you might see something like `323 applicants` on the side, those are already not great odds for you.
 
-**Direct Email**
+**Get noticed**
 
 If there is a name of the hiring manager attached the job, one tactic is to try and reach out to the hiring manager directly. State your interest, that you have found the job online and are interested, make sure to tell them some about yourself and make sure to attach your resume. One way to find people's email addresses is to use a site like [Norbet](https://www.voilanorbert.com).
 
