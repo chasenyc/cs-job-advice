@@ -27,6 +27,7 @@ This list will hopefully continue to grow, please feel free to submit suggestion
 * [jwasham / coding-interview-university ](https://github.com/jwasham/coding-interview-university)
 * [kdn251 / interviews ](https://github.com/kdn251/interviews)
 * [donnemartin / system-design-primer ](https://github.com/donnemartin/system-design-primer)
+* [checkcheckzz / system-design-interview](https://github.com/checkcheckzz/system-design-interview)
 
 ## Bootcamps
 **Paid bootcamps**
@@ -46,6 +47,12 @@ This list will hopefully continue to grow, please feel free to submit suggestion
 * [The Muse](https://themuse.com)
 * [Monster](https://monster.com)
 * [Indeed](https://indeed.com)
+* [Hired](https://hired.com)
+* [TripleByte](https://triplebyte.com)
+* [StackOverflow](http://careers.stackoverflow.com/)
+
+## Readings
+* [Writing Good Commit Messages](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/)
 
 ## Miscellaneous
 * [Norbert](https://www.voilanorbert.com) - Site to validate/find email addresses
