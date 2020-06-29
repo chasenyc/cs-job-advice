@@ -1,7 +1,15 @@
 # Getting your first job
 I’m writing this to help answer some of the many questions people have about being prepared for getting their first software engineering job. There is a lot to unpack to making yourself an ideal candidate. There is no perfect answer to being the ideal candidate but these will without doubt help you become a more attractive candidate. There are portions of this that will not apply to everyone, it is important to know, missing any section of this by itself will probably not be what makes or breaks you getting your first job.
 
-## School / Internships
+## Table of Centents
+* [Education](#education)
+* [Portfolio](#portfolio)
+* [Interview Prep](#interview-prep)
+* [Applying](#applying)
+* [Beyond](#beyond)
+* [Resources](#resources)
+
+## Education
 **Internships**
 
 Making sure to get internships throughout your college career is a hugely impactful on getting your first job. In many cases internships will often lead to being offered jobs, but even when it does not, having these on your resume will make a world of difference. Especially for internships, having a solid understanding of data structures will make a big difference in getting those internships. There are a wide range of great resources available to help ensure you have the fundamentals down for any internship interviews but below are a few exceptional standout ones to start with:
@@ -32,7 +40,7 @@ For those who are taking an alternative route such as a coding bootcamp or self-
 
 Not getting an internship is in no way a death sentence for getting your dream job. There are people who have had no internships on their resume who will get a dream job offer. Whats important to focus on is what is in your control. That is how you spend your time that you do not have an internship. Take the time to build out your portfolio, spec out and build a small full stack project, a library, a light-weight testing framework. Anything to demonstrate what you are capable of will make a world of difference in being an appealing candidate.
  
-## Github / Portfolio
+## Portfolio
 One of the biggest challenges a lot of college candidates seem to lack and bootcamp graduates tend to have more of, is a github profile with what looks more like real world experience. Having some relevant full stack applications to show a potential employer will leave them much more confident in your abilities and will definitely help you get call backs when applying to jobs. An in-depth primer of picking a good project can be found [here](/github/fullstack-projects.md).
 
 It is important to realize that having a good github profile is not simple about having a few random repositories thrown up. Engineers who will be looking through candidates profiles will have a few things that immediately jump out to them. A well crafted README is very important, you can read more about that [here](/github/readme-guide.md).
@@ -64,7 +72,7 @@ Preparing for the interviews is an extremely important process and is not someth
 
 The most important piece of advice is to start this process early and practicing often. There are endless great resources for interview prep, github repositories, YouTube videos, free and paid services. Keeping your skills sharp and being prepared far in advance will pay great dividends when it comes time to start interviewing.
 
-## Applying to jobs
+## Applying
 There are a variety of portals to find jobs and this list is not comprehensive but:
 * [Linkedin](https://linkedin.com)
 * [Angel List](https://angel.co) - Mainly smaller startups
@@ -85,14 +93,14 @@ A lot of people tend to get very discouraged by not hearing back from any jobs. 
 
 Do not be discouraged by the lack of hearing back! Do make sure you have all everything prepared before applying to maximize your chances. It really will feel like you will never get a job but you will. Learn from any mistakes you make, if you are having terrible luck evaluate what you can do better, where your knowledge gaps are and continue to apply.
 
-## And Beyond
+## Beyond
 **It gets easier**
 
-The first job is by far the hardest to get, keep that in mind, whatever you go through in this process, everything after it will be immensely easier. Once you have real world experience, have worked in a production environment, understand real-world probled and workflows you will be a much more desirable candidate.
+The first job is by far the hardest to get, keep that in mind, whatever you go through in this process, everything after it will be immensely easier. Once you have real world experience, have worked in a production environment, understand real-world problems and workflows you will be a much more desirable candidate.
 
 **Build a network**
 
 One of the most important things you can do is to keep a network of friends who work in the field. Getting a job working somewhere you know someone is so much easier than cold applying places. For most people having an ex-coworker recommend you will go a long way to making the interview process a lot easier. Having someone vouch for you gives you a great positive bias the moment you walk in the door, it wont 100% guarantee you a job but it certainly gives you a leg up. That is why so many companies payout high referral bonuses to employees, because it makes their lives a whole lot easier to find someone they know they can trust (and they don't have to pay a recruiter).
 
-## Other Resources
+## Resources
 Below is a list of resources that I have found extremely helpful. While I have not used every product I'm listing resources I know have a proven track record of success. You can see the [full list here](resources/links.md).

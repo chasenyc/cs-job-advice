@@ -2,24 +2,28 @@
 Full stack projects are a great way to show you know your stuff. But its important to define what makes a good full stack project. The most basic definition would be that there is both a backend and a front end to your web application. A few things worth making sure are a part of your project are the following:
 
 ## Criteria for a good project
-- **Front-end user facing portion of the site**
+* **Front-end user facing portion of the site**
   
   This should be styled with css, copy another sites design if you need to. It is important not to spend too much time trying to figure out how to make your site looks nice. You are not a designer and this should not be your main concen
-- **Backend serving responses to the front end**
+* **Backend serving responses to the front end**
   
   Depending on what kind of front-end you are using this quite possibly will be an API returning JSON. You should explore creating a RESTful API as a good standard for a small project's backend. Using a RESTful API will demonstrate your understanding of best-practices.
-- **Data store**
+* **Data store**
   
   Some sort of database being used, while any data store is a plus. It’s definitely better to pick something that both reads and writes to the data store. For example having a text file filled with chess moves may not be quite as impressive as a MySQL database that user submitted input will be stored and read from. 
-- **Authentication**
+* **Authentication**
   
   Some sort of implementation of basic authentication implemented, this is an easy win in many cases as modern web frameworks will provide this right out of the box
-- **Use of 3rd Party API**
+* **Use of 3rd Party API**
   
   Some sort of interaction with a third party API such as google maps or even better if you can find a completely free one that will integrate nicely with your chosen project
-- **Live site**
+* **Live site**
   
   Having this site live on the internet is a huge positive. As an employer being able to go to a website and see the results of your work help. Even if the code is what really matters, having something people can see has a real intangible benefit. A service like [Heroku](htps://heroku.com) is great as they provide a free tier where you can deploy a live application without paying a penny.
+
+* **Public Repository**
+  
+  More important than a live site is a place where a potential employer can review your code. Seeing the final product is important but seeing the work you did to acheive the final product is a must. Make sure you have an [excellent readme](readme-guide.md) for the repository.
 
 ### Project Ideas
 It s a good idea to try and find a project that hits most of the bullet points above. In most cases if there is something you are passionate about and can figure out a way to tie it into a full stack project that’s always best as it shows some of you personality and it will be something you are passionate about. If for example you are an avid chess player, building a site that analyzes opening moves and allows users to store their games would be a great idea. More often then not if you do not have some sort of original idea cloning some site's basic functionality is a great option. The following are a few ideas for those who are a little less inspired or need some guidance.
