@@ -1,4 +1,4 @@
-# Guide
+# Getting your first job
 I’m writing this to help answer some of the many questions people have about being prepared for getting their first software engineering job. There is a lot to unpack to making yourself an ideal candidate. There is no perfect answer to being the ideal candidate but these will without doubt help you become a more attractive candidate. There are portions of this that will not apply to everyone, it is important to know, missing any section of this by itself will probably not be what makes or breaks you getting your first job.
 
 ## School / Internships
@@ -84,3 +84,12 @@ For example if I went to apply to a job on [Angel List](https://angel.co), the p
 A lot of people tend to get very discouraged by not hearing back from any jobs. There are tons of posts around the internet if they should give up. Applying to jobs can be very discouraging and difficult but you need to keep in mind that it is really a numbers game. If you are a top tier candidate, who is checking off all the boxes of everything listed above and you are not hearing back from places that can be tough but just realize this is really like a marketing funnel. If we start with an offer and say for every offer you need to have 4 on-site interviews and for every onsite interview you need to have done 2 phone screens. And lastly to get each phone screen you need to send out 100 applications, doing some simple math 1 offer = 4 * 2 * 100 that would  be somewhere around 800 applications.
 
 Do not be discouraged by the lack of hearing back! Do make sure you have all everything prepared before applying to maximize your chances. It really will feel like you will never get a job but you will. Learn from any mistakes you make, if you are having terrible luck evaluate what you can do better, where your knowledge gaps are and continue to apply.
+
+## And Beyond
+**It gets easier**
+
+The first job is by far the hardest to get, keep that in mind, whatever you go through in this process, everything after it will be immensely easier. Once you have real world experience, have worked in a production environment, understand real-world probled and workflows you will be a much more desirable candidate.
+
+**Build a network**
+
+One of the most important things you can do is to keep a network of friends who work in the field. Getting a job working somewhere you know someone is so much easier than cold applying places. For most people having an ex-coworker recommend you will go a long way to making the interview process a lot easier. Having someone vouch for you gives you a great positive bias the moment you walk in the door, it wont 100% guarantee you a job but it certainly gives you a leg up. That is why so many companies payout high referral bonuses to employees, because it makes their lives a whole lot easier to find someone they know they can trust (and they don't have to pay a recruiter).
