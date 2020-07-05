@@ -47,12 +47,17 @@ This list will hopefully continue to grow, please feel free to submit suggestion
 * [The Muse](https://themuse.com)
 * [Monster](https://monster.com)
 * [Indeed](https://indeed.com)
-* [Hired](https://hired.com)
+* [Hired](https://hired.com/x/8b24a8e7fe2486574b8a622720f9996d)
 * [TripleByte](https://triplebyte.com)
 * [StackOverflow](http://careers.stackoverflow.com/)
 
 ## Readings
+* [Pro Git Book(free)](https://git-scm.com/book/en/v2)
 * [Writing Good Commit Messages](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/)
+* [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+
+## News
+* [Hacker News](https://news.ycombinator.com/)
 
 ## Miscellaneous
 * [Norbert](https://www.voilanorbert.com) - Site to validate/find email addresses

@@ -1,5 +1,6 @@
 # Getting your first job
-I’m writing this to help answer some of the many questions people have about being prepared for getting their first software engineering job. There is a lot to unpack to making yourself an ideal candidate. There is no perfect answer to being the ideal candidate but these will without doubt help you become a more attractive candidate. There are portions of this that will not apply to everyone, it is important to know, missing any section of this by itself will probably not be what makes or breaks you getting your first job.
+
+There are a lot of questions out there about how to be the ideal candidate and get job the dream job. There is no one path to getting to achieving your goals, but there are a lot of concrete steps you can take to make sure to standout as a candidate. These steps span from the education choices you make, your portfolio of work, how you present yourself to potential employers and the world and much more. This repository aims to look at all the ways you can optimize your chances for getting the job you want and putting yourself in a position to grow in your career. Not everything in here will apply to every situation but there will be helpful takeaways for everyone.
 
 ## Table of Centents
 * [Education](#education)
@@ -22,7 +23,7 @@ This whole repository is geared towards people who want to be prepared as far in
 
 **Bootcamps**
 
-Bootcamps have been a very touchy subject for many. There are people who think very poorly about them and those who sing their praises, without getting into debate about this, it is for many a viable option to change careers. There are far more low quality than high quality bootcamps out there but those which are strong will set you up for success. Truth be told, a strong bootcamp will provide you will all of the information found within this repository.
+Bootcamps have been a very touchy subject for many. There are people who think very poorly about them and those who sing their praises, without getting into debate about this, it is for many, a viable option to change careers. There are far more low quality than high quality bootcamps out there but those which are strong will set you up for success. Truth be told, a strong bootcamp will provide you will all of the information found within this repository.
 
 **Paid bootcamps**
 * [App Academy](https://www.appacademy.io/referral_redirect?hash=04dbc105c59f04bb)
@@ -103,4 +104,4 @@ The first job is by far the hardest to get, keep that in mind, whatever you go t
 One of the most important things you can do is to keep a network of friends who work in the field. Getting a job working somewhere you know someone is so much easier than cold applying places. For most people having an ex-coworker recommend you will go a long way to making the interview process a lot easier. Having someone vouch for you gives you a great positive bias the moment you walk in the door, it wont 100% guarantee you a job but it certainly gives you a leg up. That is why so many companies payout high referral bonuses to employees, because it makes their lives a whole lot easier to find someone they know they can trust (and they don't have to pay a recruiter).
 
 ## Resources
-Below is a list of resources that I have found extremely helpful. While I have not used every product I'm listing resources I know have a proven track record of success. You can see the [full list here](resources/links.md).
+Below is a list of resources that I have found extremely helpful. While I have not used every product I'm listing resources I know have a proven track record of success. You can see the [full list of resources here](resources/links.md).
