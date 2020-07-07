@@ -1,22 +1,29 @@
 # Full Stack Projects
+[Back to main guide](../README.md)
+
 Full stack projects are a great way to show you know your stuff. But its important to define what makes a good full stack project. The most basic definition would be that there is both a backend and a front end to your web application. A few things worth making sure are a part of your project are the following:
 
 ## Criteria for a good project
+The following is a general framework to help evaluate what might make a good project to invest your time in. That being said, this criteria is in no way required and there are many impressive projects that do not hit half of these bullet points:
+
 * **Front-end user facing portion of the site**
   
-  This should be styled with css, copy another sites design if you need to. It is important not to spend too much time trying to figure out how to make your site looks nice. You are not a designer and this should not be your main concen
+  The site should be styled with css, copy another sites design if you need to. It is important not to spend too much time trying to figure out how to make your site looks nice. You are not a designer and this should not be your main concen. If you are interested in front-end work spend the time making the user experience great but you can still copy a design to keep you focused on what will really stand out to potential employers
 * **Backend serving responses to the front end**
   
-  Depending on what kind of front-end you are using this quite possibly will be an API returning JSON. You should explore creating a RESTful API as a good standard for a small project's backend. Using a RESTful API will demonstrate your understanding of best-practices.
+  Depending on what kind of front-end you are using (such an an SPA) this quite possibly will be an API returning JSON. You should explore creating a RESTful API as a good standard for a small project's backend. Using a RESTful API will demonstrate your understanding of best-practices.
 * **Data store**
   
-  Some sort of database being used, while any data store is a plus. It’s definitely better to pick something that both reads and writes to the data store. For example having a text file filled with chess moves may not be quite as impressive as a MySQL database that user submitted input will be stored and read from. 
+  Use some sort of data store, ideally one of the more well known database choices such as MySQL or MongoDB. It’s definitely better to pick something that both reads and writes to the data store. For example having a text file filled with chess moves may not be quite as impressive as a MySQL database that user submitted input will be stored and read from. 
 * **Authentication**
   
-  Some sort of implementation of basic authentication implemented, this is an easy win in many cases as modern web frameworks will provide this right out of the box
+  Some sort of implementation of basic authentication implemented, this is an easy win in many cases as modern web frameworks will provide this right out of the box without too much heavy lifting.
 * **Use of 3rd Party API**
   
-  Some sort of interaction with a third party API such as google maps or even better if you can find a completely free one that will integrate nicely with your chosen project
+  Some sort of interaction with a third party API such as google maps or even better if you can find a completely free one that will integrate nicely with your chosen project. You can find some listings of available APIs here:
+    * [Programmable Web](https://www.programmableweb.com/apis/directory)
+    * [Github -- public-apis/public-apis](https://github.com/public-apis/public-apis)
+    * [USA.gov -- APIs and Datafeeds](https://www.usa.gov/developer)
 * **Live site**
   
   Having this site live on the internet is a huge positive. As an employer being able to go to a website and see the results of your work help. Even if the code is what really matters, having something people can see has a real intangible benefit. A service like [Heroku](htps://heroku.com) is great as they provide a free tier where you can deploy a live application without paying a penny.
@@ -25,7 +32,7 @@ Full stack projects are a great way to show you know your stuff. But its importa
   
   More important than a live site is a place where a potential employer can review your code. Seeing the final product is important but seeing the work you did to acheive the final product is a must. Make sure you have an [excellent readme](readme-guide.md) for the repository.
 
-### Project Ideas
+## Project Ideas
 It s a good idea to try and find a project that hits most of the bullet points above. In most cases if there is something you are passionate about and can figure out a way to tie it into a full stack project that’s always best as it shows some of you personality and it will be something you are passionate about. If for example you are an avid chess player, building a site that analyzes opening moves and allows users to store their games would be a great idea. More often then not if you do not have some sort of original idea cloning some site's basic functionality is a great option. The following are a few ideas for those who are a little less inspired or need some guidance.
 
 #### A URL Shortener
@@ -37,3 +44,21 @@ You can build on tracking of locations by IP addresses. This would help integrat
 
 #### Instagram Clone
 An instagram clone is a great small project, the most basic iteration knocks off most of the core criteria for a good project. Building simple authentication for users, with a database to store their profile and posts. It will utilize a third party api like Amazon S3 for storing photos uploaded. And will continue to allow you to iterate with adding things like following other users, likes, comments. A good additional challenge would be to incorporate the concept of nested comments.
+
+#### Other Clones
+There are a lot of great sites out there that have potential for a clone. The benefit of building some sort of clone of a popular site, similar to what is mentioned above regarding copying UI design is that you do not have to be overwhelmed with figuring out a "new" idea along with all the design decisions. Take a look at some of the following sites and think critically about how you could implement some of the features without having to implement everything they have. For example with AirBnB, your first iteration might not include reviews, or really even the ability to book. Your first iteration can just be a website that lets users list homes for rent. Keeping the development of the site as an iterative process will allow you to reach tangible goals and not get overwhelmed by the process.
+
+* [AirBnb](https://airbnb.com)
+* [Facebook](https://facebook.com)
+* [NYTimes - Cooking](https://cooking.nytimes.com) (Recipe Site)
+* [Spotify](https://spotify.com)
+* [Stack Overflow](https://stackoverflow.com)
+* [Medium](https://medium.com)
+* [Slack](https://slack.com)
+* [Eventbrite](https://eventbrite.com)
+* [Meetup](https://meetup.com)
+* [Trello](https://trello.com)
+
+The possibilities are endless but these are some places to look for potential ideas or just to get you brainstorming.
+
+[Back to main guide](../README.md)
