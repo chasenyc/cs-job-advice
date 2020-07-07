@@ -1,4 +1,6 @@
 # In the room
+[Back to main guide](../README.md)
+
 **Coding questions resources**
 
 The following are great resources to prep ahead of time
@@ -17,3 +19,6 @@ Being vocal about your approach and asking questions will also help prevent the 
 
 ### Practice
 Whiteboarding is really something that takes practice, knowing how to solve problems is not enough. Make a point to practice talking through(outloud) how you would solve these problems, either with a friend/colleague or by yourself.
+
+---
+[Back to main guide](../README.md)

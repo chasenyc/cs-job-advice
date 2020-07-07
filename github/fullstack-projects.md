@@ -50,7 +50,7 @@ There are a lot of great sites out there that have potential for a clone. The be
 
 * [AirBnb](https://airbnb.com)
 * [Facebook](https://facebook.com)
-* [NYTimes - Cooking](https://cooking.nytimes.com) (Recipe Site)
+* [NYTimes - Cooking](https://cooking.nytimes.com)
 * [Spotify](https://spotify.com)
 * [Stack Overflow](https://stackoverflow.com)
 * [Medium](https://medium.com)
@@ -59,6 +59,11 @@ There are a lot of great sites out there that have potential for a clone. The be
 * [Meetup](https://meetup.com)
 * [Trello](https://trello.com)
 
-The possibilities are endless but these are some places to look for potential ideas or just to get you brainstorming.
+The possibilities are endless but these are some places to look for potential ideas or just to get you brainstorming. 
 
+## Resources
+* [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer) 
+* [checkcheckzz / system-design-interview](https://github.com/checkcheckzz/system-design-interview)
+
+---
 [Back to main guide](../README.md)

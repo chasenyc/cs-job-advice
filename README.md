@@ -2,7 +2,7 @@
 
 There are a lot of questions out there about how to be the ideal candidate and get job the dream job. There is no one path to getting to achieving your goals, but there are a lot of concrete steps you can take to make sure to standout as a candidate. These steps span from the education choices you make, your portfolio of work, how you present yourself to potential employers and the world and much more. This repository aims to look at all the ways you can optimize your chances for getting the job you want and putting yourself in a position to grow in your career. Not everything in here will apply to every situation but there will be helpful takeaways for everyone.
 
-## Table of Centents
+## Table of Contents
 * [Education](#education)
 * [Portfolio](#portfolio)
 * [Interview Prep](#interview-prep)

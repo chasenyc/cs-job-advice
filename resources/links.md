@@ -1,4 +1,6 @@
 # Other helpful resources
+[Back to main guide](../README.md)
+
 This list will hopefully continue to grow, please feel free to submit suggestions using github issues with the enhancement label.
 
 ## Data Structures and Algorithms
@@ -28,6 +30,7 @@ This list will hopefully continue to grow, please feel free to submit suggestion
 * [kdn251 / interviews ](https://github.com/kdn251/interviews)
 * [donnemartin / system-design-primer ](https://github.com/donnemartin/system-design-primer)
 * [checkcheckzz / system-design-interview](https://github.com/checkcheckzz/system-design-interview)
+* [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer) 
 
 ## Bootcamps
 **Paid bootcamps**
@@ -60,4 +63,7 @@ This list will hopefully continue to grow, please feel free to submit suggestion
 * [Hacker News](https://news.ycombinator.com/)
 
 ## Miscellaneous
-* [Norbert](https://www.voilanorbert.com) - Site to validate/find email addresses
+* [Norbert](https://www.voilanorbert.com) - Site to validate/find email addresses. Explanation of how to use [here](../README.md#applying)
+
+---
+[Back to main guide](../README.md)

@@ -1,4 +1,5 @@
 # How to write a great readme
+[Back to main guide](../README.md)
 
 Every repository should have a should `README.md`, this is displayed whenever someone looks at your repository and it really an introduction to your work. Having a readme with incomplete or very little information will leave a bad impression to those viewing your work. Think of this as the the first impression, just like meeting an interviewer for the first time, first impressions are critical.
 
@@ -12,4 +13,7 @@ There are a few key things that should be present in every readme:
 * Highlighting one or two code snippets can be nice where applicable. It is always best to ensure these are code snippets and not images
 
 ### Links
-* A list of best-in-class readmes can be found [here](https://github.com/matiassingers/awesome-readme).
+* [Awesome Readmes](https://github.com/matiassingers/awesome-readme)
+* [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+---
+[Back to main guide](../README.md)
