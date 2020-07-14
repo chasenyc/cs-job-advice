@@ -16,7 +16,7 @@ This list will hopefully continue to grow, please feel free to submit suggestion
 ## Interview Prep
 **Websites**
 * [Leetcode](https://leetcode.com)
-* [The Daily Byte](https://thedailybyte.dev)
+* [The Daily Byte](https://thedailybyte.dev?ref=9fe)
 * [Project Euler](https://projecteuler.net/) 
 * [Hackerrank](https://hackerrank.com)
   
@@ -30,7 +30,6 @@ This list will hopefully continue to grow, please feel free to submit suggestion
 * [kdn251 / interviews ](https://github.com/kdn251/interviews)
 * [donnemartin / system-design-primer ](https://github.com/donnemartin/system-design-primer)
 * [checkcheckzz / system-design-interview](https://github.com/checkcheckzz/system-design-interview)
-* [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer) 
 
 ## Bootcamps
 **Paid bootcamps**

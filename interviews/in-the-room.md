@@ -5,7 +5,7 @@
 
 The following are great resources to prep ahead of time
 * [Leetcode](https://leetcode.com) - Probably the premier pool of interview questions available.
-* [The Daily Byte](https://thedailybyte.dev) - Daily interview questions to your inbox in an order with a curriculum to help foster learning and improving over time. A great option for people stating ahead of time who want to keep consistent.
+* [The Daily Byte](https://thedailybyte.dev?ref=9fe) - Daily interview questions to your inbox in an order with a curriculum to help foster learning and improving over time. A great option for people stating ahead of time who want to keep consistent.
 * [Project Euler](https://projecteuler.net/) - Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.
 
 ## Solving the Problems

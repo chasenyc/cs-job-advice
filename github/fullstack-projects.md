@@ -1,9 +1,25 @@
-# Full Stack Projects
+# Portfolio Projects
 [Back to main guide](../README.md)
+
+## Table of Contents
+- [Portfolio Projects](#portfolio-projects)
+  - [Table of Contents](#table-of-contents)
+  - [Full Stack Projects](#full-stack-projects)
+    - [Criteria for a good project](#criteria-for-a-good-project)
+    - [Project Ideas](#project-ideas)
+      - [A URL Shortener](#a-url-shortener)
+      - [Instagram Clone](#instagram-clone)
+      - [Other Clones](#other-clones)
+  - [Smaller Projects](#smaller-projects)
+    - [A simple testing framework](#a-simple-testing-framework)
+    - [Other Ideas](#other-ideas)
+  - [Resources](#resources)
+
+## Full Stack Projects
 
 Full stack projects are a great way to show you know your stuff. But its important to define what makes a good full stack project. The most basic definition would be that there is both a backend and a front end to your web application. A few things worth making sure are a part of your project are the following:
 
-## Criteria for a good project
+### Criteria for a good project
 The following is a general framework to help evaluate what might make a good project to invest your time in. That being said, this criteria is in no way required and there are many impressive projects that do not hit half of these bullet points:
 
 * **Front-end user facing portion of the site**
@@ -32,7 +48,7 @@ The following is a general framework to help evaluate what might make a good pro
   
   More important than a live site is a place where a potential employer can review your code. Seeing the final product is important but seeing the work you did to acheive the final product is a must. Make sure you have an [excellent readme](readme-guide.md) for the repository.
 
-## Project Ideas
+### Project Ideas
 It s a good idea to try and find a project that hits most of the bullet points above. In most cases if there is something you are passionate about and can figure out a way to tie it into a full stack project that’s always best as it shows some of you personality and it will be something you are passionate about. If for example you are an avid chess player, building a site that analyzes opening moves and allows users to store their games would be a great idea. More often then not if you do not have some sort of original idea cloning some site's basic functionality is a great option. The following are a few ideas for those who are a little less inspired or need some guidance.
 
 #### A URL Shortener
@@ -60,6 +76,21 @@ There are a lot of great sites out there that have potential for a clone. The be
 * [Trello](https://trello.com)
 
 The possibilities are endless but these are some places to look for potential ideas or just to get you brainstorming. 
+
+## Smaller Projects
+
+If a full-stack project is daunting for you right now, that is also okay. This can be daunting for a variety of reasons, from not having enough time to not feeling that you know enough to create a full stack website, or even that you have already built one. Regardless, there are still great additions to a GitHub portfolio that you can do, some of which are on the much simpler side, these will not only round out what potential employers see of you but hopefully also be an opportunity for learning more. The options here are really endless but Below is a few potential options to get your mind going as to what is possible.
+
+### A simple testing framework
+This is a great project I found used in a book called [Secrets of a JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja). The basic concept is extremely simple in that you are creating a small package that tests assertions, in the first and most basic step you are just checking equality and outputting success or failures. The benefit of very iterative projects is that you are able to put something up on GitHub that works quickly. You can continue to iterate on it but it is an easy talking point and easy to have something to show almost immediately.
+
+### Other Ideas
+
+This section will continue to be filled in with more detail but for the time being some of these are great opportunities
+- Simple game clone (i.e. Asteroids, Flappy Bird, CLI Chess)
+- Lightweight ORM
+- A web scrapper
+- Front end only website hitting APIs
 
 ## Resources
 * [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer) 

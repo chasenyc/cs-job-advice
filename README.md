@@ -8,7 +8,7 @@ There are a lot of questions out there about how to be the ideal candidate and g
 * [Interview Prep](#interview-prep)
 * [Applying](#applying)
 * [Beyond](#beyond)
-* [Resources](#resources)
+* [Resources](resources/links.md)
 
 ## Education
 **Internships**
@@ -66,7 +66,7 @@ the language they use but that alone should not leave you paralyzed with what ch
 
 **Places to hone your interview skills**
 * [Leetcode](https://leetcode.com) - Probably the premier pool of interview questions available.
-* [The Daily Byte](https://thedailybyte.dev) - Daily interview questions to your inbox in an order with a curriculum to help foster learning and improving over time. A great option for people stating ahead of time who want to keep consistent.
+* [The Daily Byte](https://thedailybyte.dev?ref=9fe) - Daily interview questions to your inbox in an order with a curriculum to help foster learning and improving over time. A great option for people stating ahead of time who want to keep consistent.
 * [Project Euler](https://projecteuler.net/) - Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.
   
 Preparing for the interviews is an extremely important process and is not something that can be left until the last minute. People prepare for many months before applying to jobs, there are whole industries surrounding helping prepare for the interview process. In many cases the technical interview questions asked are questions that address topics you will not be dealing with on a day to day in your job; however, they still serve a purpose to get to see how your logical brain works, how you work through problems and somewhat are aimed to ensure you learned the types of things expected from a standard CS degree.
