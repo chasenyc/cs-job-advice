@@ -86,7 +86,7 @@ This is a great project I found used in a book called [Secrets of a JavaScript N
 
 ### Other Ideas
 
-This section will continue to be filled in with more detail but for the time being some of these are great opportunities
+This section will continue to be filled in with more detail but for the time being some of these are great opportunities. If you want an exhaustive list of ideas checkout [danistefanovic / build-your-own-x](https://github.com/danistefanovic/build-your-own-x).
 - Simple game clone (i.e. Asteroids, Flappy Bird, CLI Chess)
 - Lightweight ORM
 - A web scrapper
@@ -95,6 +95,7 @@ This section will continue to be filled in with more detail but for the time bei
 ## Resources
 * [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer) 
 * [checkcheckzz / system-design-interview](https://github.com/checkcheckzz/system-design-interview)
+* [danistefanovic / build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
 
 ---
 [Back to main guide](../README.md)

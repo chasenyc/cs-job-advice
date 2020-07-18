@@ -30,6 +30,7 @@ This list will hopefully continue to grow, please feel free to submit suggestion
 * [kdn251 / interviews ](https://github.com/kdn251/interviews)
 * [donnemartin / system-design-primer ](https://github.com/donnemartin/system-design-primer)
 * [checkcheckzz / system-design-interview](https://github.com/checkcheckzz/system-design-interview)
+* [danistefanovic / build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
 
 ## Bootcamps
 **Paid bootcamps**

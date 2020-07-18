@@ -1,7 +1,7 @@
 # In the room
 [Back to main guide](../README.md)
 
-**Coding questions resources**
+## Coding questions resources
 
 The following are great resources to prep ahead of time
 * [Leetcode](https://leetcode.com) - Probably the premier pool of interview questions available.
