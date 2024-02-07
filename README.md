@@ -80,6 +80,7 @@ There are a variety of portals to find jobs and this list is not comprehensive b
 * [The Muse](https://themuse.com)
 * [Monster](https://monster.com)
 * [Indeed](https://indeed.com)
+* [OkJob](https://okjob.io) - 4 day week job board
   
 One of the most important aspects of applying to jobs is standing out from the crowd. While most people will apply to jobs directly through the portal, it is important to realize that you are one in a large pool of candidates when you apply through their portal. Everything discussed in this repository is about standing out from the crowd and getting yourself in the door; however, your profile/portfolio may not be enough. Looking at a job posting on LinkedIn you might see something like `323 applicants` on the side, those are already not great odds for you.
 
